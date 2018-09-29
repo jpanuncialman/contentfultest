@@ -1,2 +1,0 @@
-# contentfultest
-Testing contentful
